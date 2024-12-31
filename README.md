@@ -3,6 +3,8 @@
 
 <p align="center">
 <img style="margin: 20 auto; height: 140px; display: block;" src="assets/logo.png" > 
+</p>
+<p align="center">
 <a href='https://julianjuaner.github.io/projects/MagicMirror/'><img src='https://img.shields.io/badge/project_page-aa55dd'></a>
 <a href='https://arxiv.org/abs/2312.04302'><img src='https://img.shields.io/badge/arXiv_paper-ee7744'></a>
 </p>
@@ -20,7 +22,10 @@
 ## 2. Stylized & Special Effect
 | Reference Image | Generated Video |  Reference Image  | Generated Video | 
 | ---- | ---- | ---- |---- |
-  |<img height="200" src="assets/1.png" >| <img height="200" src="assets/1_1.gif"> | <img height="200" src="assets/2.png" >| <img height="200" src="assets/2_1.gif"> | 
+ |<img height="180" src="assets/1.png" >| <img height="180" src="assets/1_1.gif"> | <img height="180" src="assets/2.png" >| <img height="180" src="assets/2_1.gif"> | 
+ |<img height="180" src="assets/3.png" >| <img height="180" src="assets/3_1.gif"> | <img height="180" src="assets/4.png" >| <img height="180" src="assets/4_1.gif"> | 
+ |<img height="180" src="assets/5.jpg" >| <img height="180" src="assets/5_1.gif"> | <img height="180" src="assets/5+.png" >| <img height="180" src="assets/5+.gif"> | 
+
 
 ## 3. Multi-Shot Generation
 A beard man, wearing a yellow T-shirt, working for a wooden table...
