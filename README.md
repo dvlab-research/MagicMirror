@@ -14,31 +14,31 @@
 ## 1. Reference Driven Identity-Aware Text to Video Generation
 | Reference Image | Generated Video | Generated Video |
 | ---- | ---- | ---- |
-| <img height="224" src="assets/teaser_6.png" > | <img height="224" src="assets/teaser_6_1.gif"> | <img height="224" src="assets/teaser_6_2.gif"> |
-| <img height="224" src="assets/teaser_5.png"> | <img height="224" src="assets/teaser_5_1.gif"> | <img height="224" src="assets/teaser_5_2.gif"> |
-| <img height="224" src="assets/teaser_4.png"> | <img height="224" src="assets/teaser_4_1.gif"> | <img height="224" src="assets/teaser_4_2.gif"> |
-| <img height="224" src="assets/teaser_1.png"> | <img height="224" src="assets/teaser_1_1.gif"> | <img height="224" src="assets/teaser_1_2.gif"> |
+| <img height="180" src="assets/teaser_6.png" > | <img height="180" src="assets/teaser_6_1.gif"> | <img height="180" src="assets/teaser_6_2.gif"> |
+| <img height="180" src="assets/teaser_5.png"> | <img height="180" src="assets/teaser_5_1.gif"> | <img height="180" src="assets/teaser_5_2.gif"> |
+| <img height="180" src="assets/teaser_4.png"> | <img height="180" src="assets/teaser_4_1.gif"> | <img height="180" src="assets/teaser_4_2.gif"> |
+| <img height="180" src="assets/teaser_1.png"> | <img height="180" src="assets/teaser_1_1.gif"> | <img height="180" src="assets/teaser_1_2.gif"> |
 
 ## 2. Stylized & Special Effect
 | Reference Image | Generated Video |  Reference Image  | Generated Video | 
 | ---- | ---- | ---- |---- |
- |<img height="180" src="assets/1.png" >| <img height="180" src="assets/1_1.gif"> | <img height="180" src="assets/2.png" >| <img height="180" src="assets/2_1.gif"> | 
- |<img height="180" src="assets/3.png" >| <img height="180" src="assets/3_1.gif"> | <img height="180" src="assets/4.png" >| <img height="180" src="assets/4_1.gif"> | 
- |<img height="180" src="assets/5.jpg" >| <img height="180" src="assets/5_1.gif"> | <img height="180" src="assets/5+.png" >| <img height="180" src="assets/5+.gif"> | 
+|<img height="128" src="assets/1.png" >| <img height="128" src="assets/1_1.gif"> | <img height="128" src="assets/2.png" >| <img height="128" src="assets/2_1.gif"> | 
+|<img height="128" src="assets/3.png" >| <img height="128" src="assets/3_1.gif"> | <img height="128" src="assets/4.png" >| <img height="128" src="assets/4_1.gif"> | 
+|<img height="128" src="assets/5.jpg" >| <img height="128" src="assets/5_1.gif"> | <img height="128" src="assets/5+.png" >| <img height="128" src="assets/5+.gif"> | 
 
 
 ## 3. Multi-Shot Generation
 A beard man, wearing a yellow T-shirt, working for a wooden table...
-  | Reference:<br><img height="180" src="assets/8.png" >| <img height="200" src="assets/8_1.gif"> | <img height="200" src="assets/8_2.gif"> |
+  | Reference:<br><img height="160" src="assets/8.png" >| <img height="160" src="assets/8_1.gif"> | <img height="160" src="assets/8_2.gif"> |
 | ---- | ---- | ---- |
-| <img height="200" src="assets/8_3.gif"> | <img height="200" src="assets/8_4.gif"> | <img height="200" src="assets/8_5.gif"> |
+| <img height="160" src="assets/8_3.gif"> | <img height="160" src="assets/8_4.gif"> | <img height="160" src="assets/8_5.gif"> |
 
 <br>
 
 A woman, wearing a white shirt and blue jeans, enjoying her day-time activities...
-  | Reference:<br> <img height="180" src="assets/teaser_5.png" >| <img height="200" src="assets/6_1.gif"> | <img height="200" src="assets/6_2.gif"> |
+  | Reference:<br> <img height="160" src="assets/teaser_5.png" >| <img height="160" src="assets/6_1.gif"> | <img height="160" src="assets/6_2.gif"> |
 | ---- | ---- | ---- |
-| <img height="200" src="assets/6_3.gif"> | <img height="200" src="assets/6_4.gif"> | <img height="200" src="assets/6_5.gif"> |
+| <img height="160" src="assets/6_3.gif"> | <img height="160" src="assets/6_4.gif"> | <img height="160" src="assets/6_5.gif"> |
 
 
 # Overview
