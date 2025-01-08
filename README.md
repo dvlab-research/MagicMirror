@@ -6,12 +6,12 @@
 </p>
 <p align="center">
 <a href='https://julianjuaner.github.io/projects/MagicMirror/'><img src='https://img.shields.io/badge/project_page-aa55dd'></a>
-<a href='https://arxiv.org/abs/2312.04302'><img src='https://img.shields.io/badge/arXiv_paper-ee7744'></a>
+<a href='https://arxiv.org/abs/2501.03931'><img src='https://img.shields.io/badge/arXiv_paper-ee7744'></a>
 </p>
 
 # ShowCases
  Please refer to the [project page]('https://julianjuaner.github.io/projects/MagicMirror/') for full-quality and more examples.
-## 1. Reference Driven Identity-Aware Text to Video Generation
+## 1. Reference-Driven Identity-Aware Text-to-Video Generation
 | Reference Image | Generated Video | Generated Video |
 | ---- | ---- | ---- |
 | <img height="180" src="assets/teaser_6.png" > | <img height="180" src="assets/teaser_6_1.gif"> | <img height="180" src="assets/teaser_6_2.gif"> |
@@ -28,14 +28,14 @@
 
 
 ## 3. Multi-Shot Generation
-A beard man, wearing a yellow T-shirt, working for a wooden table...
+A bearded man, wearing a yellow T-shirt, working for a wooden table...
   | Reference:<br><img height="160" src="assets/8.png" >| <img height="160" src="assets/8_1.gif"> | <img height="160" src="assets/8_2.gif"> |
 | ---- | ---- | ---- |
 | <img height="160" src="assets/8_3.gif"> | <img height="160" src="assets/8_4.gif"> | <img height="160" src="assets/8_5.gif"> |
 
 <br>
 
-A woman, wearing a white shirt and blue jeans, enjoying her day-time activities...
+A woman, wearing a white shirt and blue jeans, enjoying her daytime activities...
   | Reference:<br> <img height="160" src="assets/teaser_5.png" >| <img height="160" src="assets/6_1.gif"> | <img height="160" src="assets/6_2.gif"> |
 | ---- | ---- | ---- |
 | <img height="160" src="assets/6_3.gif"> | <img height="160" src="assets/6_4.gif"> | <img height="160" src="assets/6_5.gif"> |
@@ -68,8 +68,10 @@ In this work, we presented Magic Mirror, a zero-shot framework for identity-pres
 If you find this repo useful for your research, please consider citing the paper
 
 ```bibtex
-@inproceedings{zhang2025magic,
-  title={Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers},
-  author={Zhang, Yuechen and Yaoyang, Liu and Bin, Xia and Bohao, Peng and Zexin, Yan and Eric, Lo and Jiaya, Jia}
+@misc{zhang2025magicmirror,
+      title={Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers}, 
+      author={Yuechen Zhang and Yaoyang Liu and Bin Xia and Bohao Peng and Zexin Yan and Eric Lo and Jiaya Jia},
+      journal={arXiv preprint arXiv:2501.03931},
+      year={2025}
 }
 ```
