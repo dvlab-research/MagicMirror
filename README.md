@@ -68,10 +68,10 @@ In this work, we presented Magic Mirror, a zero-shot framework for identity-pres
 If you find this repo useful for your research, please consider citing the paper
 
 ```bibtex
-@misc{zhang2025magicmirror,
-      title={Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers}, 
-      author={Yuechen Zhang and Yaoyang Liu and Bin Xia and Bohao Peng and Zexin Yan and Eric Lo and Jiaya Jia},
-      journal={arXiv preprint arXiv:2501.03931},
-      year={2025}
+@article{zhang2025magic,
+  title={Magic Mirror: ID-Preserved Video Generation in Video Diffusion Transformers},
+  author={Zhang, Yuechen and Liu, Yaoyang and Xia, Bin and Peng, Bohao and Yan, Zexin and Lo, Eric and Jia, Jiaya},
+  journal={arXiv preprint arXiv:2501.03931},
+  year={2025}
 }
 ```
